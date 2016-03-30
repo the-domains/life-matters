@@ -1,0 +1,14 @@
+layout_spectrum: 0.9931816
+typography_spectrum: 0.05913734
+color:
+  lightness: 0.5910844
+  brandStrength: 0.9025717
+  saturation: 0.08023331
+  rhythmicContrast: 0.3874817
+  brandColors:
+    - '#030203'
+    - '#025D99'
+    - '#E9E9E1'
+    - '#88B3D0'
+    - '#FBB442'
+name: Life matters
